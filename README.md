@@ -1,6 +1,9 @@
 # Django Blog
 
 ## Demo
+<img src="blog_index.png" alt="blog-index" width="500"/>
+<img src="blog_post.png" alt="blog-post" width="500"/>
+
 
 
 ## About
@@ -11,7 +14,7 @@ https://www.udemy.com/course/python-django-the-practical-guide/
 The course deals with topics such as:
 - Basics of Django (MTV, Admin panel, Forms and so on...)
 - Class Views & Generic Views
-- Sessions
+- Sessions (Posts in this blog can be stored by them)
 - Deployment on AWS
 
 The project is actually rewritten, but sometimes I used my own inventions :)
